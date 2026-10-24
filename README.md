@@ -1,2 +1,3 @@
 # OpenGI
-OpenGI(Guardrails Intelligence) is for local ai or cloud ai guardrails from illegal or dangerous User's Prompt.
+OpenGI(Guardrails Intelligence) is for local ai or cloud ai guardrails from illegal or dangerous User's Prompt
+not continued, wait guys!
